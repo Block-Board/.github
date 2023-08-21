@@ -1,9 +1,5 @@
 # BlockBoard
 
-_Revolutionizing Communication: Rent Message Boards on the Blockchain_
-<br />
-<br />
-
 ## The Problem
 
 Traditional methods of **communication and advertisement** – billboards, newspapers, TV – are limited by geography, high costs, and opacity. For advertisers, it's hard to measure genuine reach. For the public, content is often out of their control. Smaller voices struggle to be heard amidst monopolistic giants.
